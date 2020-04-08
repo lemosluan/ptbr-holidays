@@ -85,6 +85,3 @@ class BrasilWorkDays
         }
     }
 }
-
-
-BrasilWorkDays::test();
