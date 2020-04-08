@@ -1,8 +1,3 @@
-# Brasil's Workdays and Holidays Helper (PHP)
-
-Just to save some time. ;)
-
-```PHP
 <?php
 
 class BrasilWorkDays
@@ -91,9 +86,5 @@ class BrasilWorkDays
     }
 }
 
-```
 
-#Try it
-
--   `git clone`
--   `BrasilWorkDays::test();`
+BrasilWorkDays::test();
