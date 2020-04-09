@@ -12,12 +12,13 @@
             "role": "Newbie"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0"
     },
     "autoload": {
         "psr-0": {
-            "LemosLuan\\": "src"
+            "LemosLuan": "src/"
         }
     }
 }
