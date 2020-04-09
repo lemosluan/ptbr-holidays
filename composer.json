@@ -2,7 +2,7 @@
     "name": "lemosluan/ptbr-holidays",
     "description": "Brasil's Workdays and Holidays Helper",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "type": "library",
     "authors": [
         {
