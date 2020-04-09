@@ -97,5 +97,5 @@ class BrasilHolidays
 
 #Try it
 
--   ``
+-   `composer require lemosluan/ptbr-holidays`
 -   `\LemosLuan\BrasilHolidays::test();`
