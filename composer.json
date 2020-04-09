@@ -1,0 +1,22 @@
+{
+    "name": "lemosluan/ptbr-holidays",
+    "description": "Brasil's Workdays and Holidays Helper",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Luan Lemos Almeida",
+            "email": "lemosluan@yahoo.com.br",
+            "homepage": "http://github.com/lemosluan",
+            "role": "Newbie"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LemosLuan\\": "src"
+        }
+    }
+}

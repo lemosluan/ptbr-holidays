@@ -1,6 +1,8 @@
 <?php
 
-class BrasilWorkDays
+namespace LemosLuan;
+
+class BrasilHolidays
 {
     public static function  getBrasilHolidays($year = null, $dateFormat = 'd/m'): array
     {
