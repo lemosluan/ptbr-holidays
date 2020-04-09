@@ -95,7 +95,18 @@ class BrasilHolidays
 
 ```
 
-#Try it
+## Try it
 
 -   `composer require lemosluan/ptbr-holidays`
--   `\LemosLuan\BrasilHolidays::test();`
+
+Create a file with name `test.php` with:
+
+```php
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+\LemosLuan\BrasilHolidays::test();
+```
+
+So, on terminal try type: `php test.php`
